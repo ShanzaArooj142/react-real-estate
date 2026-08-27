@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className='bg-[#111827] text-white px-24 py-14 mt-20'>
       <div className='flex justify-between'>
-        <div className='w-[300px]'>
+        <div className='w-75'>
           <h2 className="text-xl font-semibold mb-5">
             Real Estate
           </h2>
