@@ -14,7 +14,7 @@ const Contact = () => {
         </div>
 
         <div className='flex justify-center mt-14'>
-            <div className='w-[740px] h-[520px] bg-white rounded-lg shadow-lg p-3'>
+            <div className='w-185 h-130 bg-white rounded-lg shadow-lg p-3'>
                 <h3 className="text-2xl font-semibold mb-8">
                   Get in Touch
                 </h3>
@@ -40,7 +40,7 @@ const Contact = () => {
         </div>
 
         <div className='flex justify-center gap-8 mt-8'>
-            <div className='w-[450px] h-[370px] bg-white rounded-lg shadow-lg p-8'>
+            <div className='w-185 h-130 bg-white rounded-lg shadow-lg p-8'>
                  <h3 class=" text-xl font-semibold mb-6">
             Our Contact Details
         </h3>
