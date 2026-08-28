@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Navbar from './Navbar'
 const Hero = () => {
   return (
 
@@ -7,7 +7,7 @@ const Hero = () => {
   style={{ backgroundImage: "url('/bg.png')" }} 
   className="h-screen w-full bg-cover bg-center bg-no-repeat"
 >
-  
+  <Navbar/>
   <h1 className=" relative  flex flex-col items-center justify-center h-[72vh] text-center text-white text-5xl font-bold leading-tight pt-45">
     Explore homes that <br />
     fits your dreams</h1>
