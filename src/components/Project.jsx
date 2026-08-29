@@ -65,7 +65,6 @@ const Project = () => {
                     </div>
                     <p className="text-xs  text-gray-800">$2,50,000</p>
                 </div>
-
             </div>
         </div>
 
